@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    background-color: lightpink;
+    background-color: palevioletred;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0 ,0.1);
@@ -37,7 +37,7 @@ h1 {
 
 button {
     padding: 10px 15px;
-    background-color: palevioletred;
+    background-color: rgb(198, 72, 114);
     color: #fff;
     border: none;
     border-radius: 4px;
